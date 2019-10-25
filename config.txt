@@ -1,6 +1,6 @@
-token= NjM3MTk3NTc5NDI3MjUwMTg2.XbNHzg.o2u---oyoi1DehwSoVySr8YzmAM
-owner= 476457641007251477
-prefix= +
-game= playingbot +play
+token=NjM3MTk3NTc5NDI3MjUwMTg2.XbNHzg.o2u---oyoi1DehwSoVySr8YzmAM
+owner=476457641007251477
+prefix=&
+game=playingbot &play
 stayinchannel=true 
 songinstatus=false 
